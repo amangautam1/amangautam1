@@ -17,7 +17,7 @@
 </a>
 <br />
 <br />
-<!--
+
 **amangautam1/amangautam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am from Mathura, Uttar Pradesh. I am passionate about application development. 
@@ -26,7 +26,7 @@ I am from Mathura, Uttar Pradesh. I am passionate about application development.
 - 🌱 I’m currently learning NodeJS
 - 🤔 I’m looking for Job in flutter development
 - 📫 How to reach me: click above icons
--->
+
 ### 👨🏻‍💻 Language and tools: 
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></img>
