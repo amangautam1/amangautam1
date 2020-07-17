@@ -22,7 +22,7 @@ I am from Mathura, Uttar Pradesh. I am passionate about mobile application devel
 
 - 🔭 I’m currently working on Flutter App development
 - 🌱 I’m currently learning NodeJS
-- 🤔 I’m looking for Job in flutter development
+- 💻 I’m looking for Job in flutter development
 - 📫 How to reach me: click above icons
 
 ### 👨🏻‍💻 Language and tools: 
