@@ -1,5 +1,4 @@
 ### Hi there 👋 
-<br>
 <img src="https://pbs.twimg.com/profile_banners/3247551870/1599034477/1500x500" height=200 width=600/>
 <br>
 
@@ -9,7 +8,8 @@ I am from Mathura, Uttar Pradesh. I am passionate about mobile application devel
 - 🌱 I’m currently learning NodeJS
 <!--- 💻 I’m looking for Job in flutter development -->
 - 📫 How to reach me: click below icons
-<br>
+
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/aman_gautam1">
   <img align="left" alt="Aman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -29,7 +29,6 @@ I am from Mathura, Uttar Pradesh. I am passionate about mobile application devel
   <img align="left" alt="FlutterBoard" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br />
-<bt>
 ### 👨🏻‍💻 Language and tools: 
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></img>
