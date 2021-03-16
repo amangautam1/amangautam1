@@ -31,7 +31,7 @@ I am from Mathura, Uttar Pradesh. I am passionate about mobile application devel
 <br />
 
 ### Stackoverflow
-<a href="https://stackoverflow.com/users/7305311/aman-gautam"><img src="https://stackoverflow.com/users/flair/7305311.png" width="208" height="58" alt="profile for Aman gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aman gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/7305311/aman-gautam"><img src="https://stackoverflow.com/users/flair/7305311.png?theme=dark" width="208" height="58" alt="profile for Aman gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aman gautam at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### 🎯 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=amangautam1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
