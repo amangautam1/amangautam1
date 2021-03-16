@@ -3,6 +3,7 @@
 <br>
 
 I am from Mathura, Uttar Pradesh. I am passionate about mobile application development. 
+![](https://komarev.com/ghpvc/?username=amangautam1)
 
 - 🔭 I’m currently working on Flutter App development
 - 🌱 I’m currently learning NodeJS
